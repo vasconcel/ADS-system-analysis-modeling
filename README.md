@@ -18,20 +18,20 @@ Uma clínica médica precisa de um sistema de agendamento de consultas para gere
 
 1. Elaboração de um documento detalhando os requisitos do sistema, seguindo os critérios de qualidade da IEEE 830:
   * [Documento de Requisitos de Software (Google Drive)](https://drive.google.com/file/d/1FHjl3zbH8Ei_r254BtpRzJGNXNvc17tO/view?usp=sharing)
-  * [Vídeo Explicativo](https://youtu.be/xrT5Q3FiqYU?si=ptH_kOaj-sJBUPBS)
+    * [Vídeo Explicativo](https://youtu.be/xrT5Q3FiqYU?si=ptH_kOaj-sJBUPBS)
 
 2. Criação de um mapa mental explicando conceitos como Projeto de Software, Arquitetura de Software, Decomposição, Abstração, entre outros:
   * [Mapa Mental dos Conceitos (LucidSpark)](https://lucid.app/lucidspark/f3a9556d-3f09-4581-afd3-7cde7824ad61/edit?invitationId=inv_37ad847e-c7ef-40cd-913d-114f69180d0f)
-  * [Vídeo Explicativo](https://youtu.be/hGaS6jjihVI?si=-yv1amRvLmI0-StT)
+    * [Vídeo Explicativo](https://youtu.be/hGaS6jjihVI?si=-yv1amRvLmI0-StT)
 
 3. Organização de uma apresentação abordando Modelagem de Sistemas e Modelagem de Domínio, além de uma síntese sobre Domain Driven Design e uma explicação didática sobre UML:
   * [Apresentação em Slides (Canva)](https://www.canva.com/design/DAGJ1yKGY_8/vneAdyzw-uEGubBlSx5shA/edit?utm_content=DAGJ1yKGY_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  * [Vídeo Explicativo](https://youtu.be/RXFeQoDDOVs?si=gzf1IN4VH-Gno-oq)
+    * [Vídeo Explicativo](https://youtu.be/RXFeQoDDOVs?si=gzf1IN4VH-Gno-oq)
 
 4. Elaboração de um Diagrama de Atividades e um Diagrama de Caso de Uso para o cenário proposto, incluindo a descrição textual dos Casos de Uso identificados:
   * [Diagrama de Atividades (LucidChart)](https://lucid.app/lucidchart/153be7c0-911d-4072-acad-16df108884d2/edit?invitationId=inv_15bd7c78-118b-477e-a152-7e6bb6c68972)
   * [Diagrama de Casos de Uso (LucidSpark)](https://lucid.app/lucidspark/396e7b8b-0efc-4d33-830b-b7c8ec256366/edit?invitationId=inv_840f01a2-7669-446b-948b-7314ce8d8355)
-  * [Vídeo Explicativo](https://youtu.be/5D5zk7uzCfA?si=T2zo0xHzCgYgJF9M)
+    * [Vídeo Explicativo](https://youtu.be/5D5zk7uzCfA?si=T2zo0xHzCgYgJF9M)
 
 ### Conclusão
 O Desafio Prático proporcionou uma oportunidade de aplicar conceitos teóricos em um contexto prático, simulando um ambiente real de desenvolvimento de software. Cada etapa do desafio exigiu a aplicação de diferentes técnicas e ferramentas aprendidas ao longo do curso, resultando em uma compreensão mais profunda dos processos de Análise e Modelagem de Sistemas.
