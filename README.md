@@ -75,8 +75,7 @@ O Desafio Prático proporcionou uma oportunidade de aplicar conceitos teóricos 
     - A diferença entre Caso de Uso e História de Usuário
 
 ## Repositório Principal
-Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+* [Voltar](https://github.com/devitruvius/college-repository)
 
 ## Licença
 Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
